@@ -1,0 +1,61 @@
+body {
+    background-color: #201b24;
+    text-align: center;
+    font-size: small;
+}
+.card {
+    margin-top: 60px;
+    text-align: center;
+    display: inline-block;
+    padding: 45px 125px 45px 125px;
+    background-color: #5b4e5e;
+    border: 1px solid #eb0095;
+    color:#26040d;
+    border-radius: 30px;
+    font-size: 16px;
+}
+#role {
+    color: #bf9da5;
+    font-size: large;
+}
+#text {
+    line-height: 5px;
+}
+.text_box{
+    display: inline-block;
+    border-radius: 45px;
+    background-color: #907f94;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.avatar {
+    width:128px;
+}
+#html_box {
+    background-color: #a54646;
+    color: #2b0b0b;
+}
+#css_box {
+    background-color: #1f2e5e;
+    color: #355fb9;
+}
+#git_box {
+    background-color: #5e381f;
+    color: #b96a35;
+}
+#stage_box {
+    background-color: #519c67;
+    color: #113825;
+    font-size: 13px;
+}
+.displays {
+    display:inline-block;
+    text-align: center;
+    width: 175px;
+    font-size: 10px;
+}
+.highlight{
+    color: #377c91;
+    font-weight: bold;
+    text-decoration: underline;
+}
