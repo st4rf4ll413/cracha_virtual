@@ -28,6 +28,10 @@ body {
 }
 .avatar {
     width:192px;
+    height:192px;
+    background-color: #cf537878;
+    border-radius: 180px;
+    padding: 8px;
 }
 .badge {
     display: inline-block;
